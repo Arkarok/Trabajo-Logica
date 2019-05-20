@@ -1,0 +1,7 @@
+C:\Users\m\Desktop\Ejercicios C·\Ejercicio 23\Ejercicio 23\obj\Debug\Ejercicio 23.csprojAssemblyReference.cache
+C:\Users\m\Desktop\Ejercicios C·\Ejercicio 23\Ejercicio 23\obj\Debug\Ejercicio 23.csproj.CoreCompileInputs.cache
+C:\Users\m\Desktop\Ejercicios C·\Ejercicio 23\Ejercicio 23\bin\Debug\Ejercicio 23.exe.config
+C:\Users\m\Desktop\Ejercicios C·\Ejercicio 23\Ejercicio 23\bin\Debug\Ejercicio 23.exe
+C:\Users\m\Desktop\Ejercicios C·\Ejercicio 23\Ejercicio 23\bin\Debug\Ejercicio 23.pdb
+C:\Users\m\Desktop\Ejercicios C·\Ejercicio 23\Ejercicio 23\obj\Debug\Ejercicio 23.exe
+C:\Users\m\Desktop\Ejercicios C·\Ejercicio 23\Ejercicio 23\obj\Debug\Ejercicio 23.pdb

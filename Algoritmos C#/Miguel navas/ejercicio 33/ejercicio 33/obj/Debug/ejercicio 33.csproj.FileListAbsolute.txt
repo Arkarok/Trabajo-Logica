@@ -1,0 +1,7 @@
+C:\Users\m\Desktop\Ejercicios C# parte 2\ejercicio 33\ejercicio 33\bin\Debug\ejercicio 33.exe.config
+C:\Users\m\Desktop\Ejercicios C# parte 2\ejercicio 33\ejercicio 33\bin\Debug\ejercicio 33.exe
+C:\Users\m\Desktop\Ejercicios C# parte 2\ejercicio 33\ejercicio 33\bin\Debug\ejercicio 33.pdb
+C:\Users\m\Desktop\Ejercicios C# parte 2\ejercicio 33\ejercicio 33\obj\Debug\ejercicio 33.csprojAssemblyReference.cache
+C:\Users\m\Desktop\Ejercicios C# parte 2\ejercicio 33\ejercicio 33\obj\Debug\ejercicio 33.csproj.CoreCompileInputs.cache
+C:\Users\m\Desktop\Ejercicios C# parte 2\ejercicio 33\ejercicio 33\obj\Debug\ejercicio 33.exe
+C:\Users\m\Desktop\Ejercicios C# parte 2\ejercicio 33\ejercicio 33\obj\Debug\ejercicio 33.pdb

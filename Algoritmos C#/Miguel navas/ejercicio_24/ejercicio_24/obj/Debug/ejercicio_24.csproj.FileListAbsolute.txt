@@ -1,0 +1,7 @@
+C:\Users\m\Desktop\Ejercicios C·\ejercicio_24\ejercicio_24\obj\Debug\ejercicio_24.csprojAssemblyReference.cache
+C:\Users\m\Desktop\Ejercicios C·\ejercicio_24\ejercicio_24\obj\Debug\ejercicio_24.csproj.CoreCompileInputs.cache
+C:\Users\m\Desktop\Ejercicios C·\ejercicio_24\ejercicio_24\bin\Debug\ejercicio_24.exe.config
+C:\Users\m\Desktop\Ejercicios C·\ejercicio_24\ejercicio_24\bin\Debug\ejercicio_24.exe
+C:\Users\m\Desktop\Ejercicios C·\ejercicio_24\ejercicio_24\bin\Debug\ejercicio_24.pdb
+C:\Users\m\Desktop\Ejercicios C·\ejercicio_24\ejercicio_24\obj\Debug\ejercicio_24.exe
+C:\Users\m\Desktop\Ejercicios C·\ejercicio_24\ejercicio_24\obj\Debug\ejercicio_24.pdb

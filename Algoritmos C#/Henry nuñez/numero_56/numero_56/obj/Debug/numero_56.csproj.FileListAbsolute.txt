@@ -1,0 +1,7 @@
+C:\Users\ARRKARROK\Desktop\41 al 60\numero_56\numero_56\bin\Debug\numero_56.exe.config
+C:\Users\ARRKARROK\Desktop\41 al 60\numero_56\numero_56\bin\Debug\numero_56.exe
+C:\Users\ARRKARROK\Desktop\41 al 60\numero_56\numero_56\bin\Debug\numero_56.pdb
+C:\Users\ARRKARROK\Desktop\41 al 60\numero_56\numero_56\obj\Debug\numero_56.csprojAssemblyReference.cache
+C:\Users\ARRKARROK\Desktop\41 al 60\numero_56\numero_56\obj\Debug\numero_56.csproj.CoreCompileInputs.cache
+C:\Users\ARRKARROK\Desktop\41 al 60\numero_56\numero_56\obj\Debug\numero_56.exe
+C:\Users\ARRKARROK\Desktop\41 al 60\numero_56\numero_56\obj\Debug\numero_56.pdb

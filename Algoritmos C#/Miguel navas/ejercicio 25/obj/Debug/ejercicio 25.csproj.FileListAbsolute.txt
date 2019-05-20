@@ -1,0 +1,7 @@
+C:\Users\m\source\repos\ejercicio 25\bin\Debug\ejercicio 25.exe.config
+C:\Users\m\source\repos\ejercicio 25\bin\Debug\ejercicio 25.exe
+C:\Users\m\source\repos\ejercicio 25\bin\Debug\ejercicio 25.pdb
+C:\Users\m\source\repos\ejercicio 25\obj\Debug\ejercicio 25.csprojAssemblyReference.cache
+C:\Users\m\source\repos\ejercicio 25\obj\Debug\ejercicio 25.csproj.CoreCompileInputs.cache
+C:\Users\m\source\repos\ejercicio 25\obj\Debug\ejercicio 25.exe
+C:\Users\m\source\repos\ejercicio 25\obj\Debug\ejercicio 25.pdb

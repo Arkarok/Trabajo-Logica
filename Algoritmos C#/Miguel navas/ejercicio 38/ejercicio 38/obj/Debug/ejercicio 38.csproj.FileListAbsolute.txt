@@ -1,0 +1,7 @@
+C:\Users\m\Desktop\Ejercicios C# parte 2\ejercicio 38\ejercicio 38\bin\Debug\ejercicio 38.exe.config
+C:\Users\m\Desktop\Ejercicios C# parte 2\ejercicio 38\ejercicio 38\bin\Debug\ejercicio 38.exe
+C:\Users\m\Desktop\Ejercicios C# parte 2\ejercicio 38\ejercicio 38\bin\Debug\ejercicio 38.pdb
+C:\Users\m\Desktop\Ejercicios C# parte 2\ejercicio 38\ejercicio 38\obj\Debug\ejercicio 38.csprojAssemblyReference.cache
+C:\Users\m\Desktop\Ejercicios C# parte 2\ejercicio 38\ejercicio 38\obj\Debug\ejercicio 38.csproj.CoreCompileInputs.cache
+C:\Users\m\Desktop\Ejercicios C# parte 2\ejercicio 38\ejercicio 38\obj\Debug\ejercicio 38.exe
+C:\Users\m\Desktop\Ejercicios C# parte 2\ejercicio 38\ejercicio 38\obj\Debug\ejercicio 38.pdb
